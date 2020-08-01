@@ -1,5 +1,5 @@
 # kl-exploration
-An idea skwtch of the KL divergence-based exploration
+An idea sketch of the KL divergence-based exploration
 
 Similar to the [Shannon-KSA agent](https://www.sciencedirect.com/science/article/pii/S0304397513007160) with regularization (reward). 
 
